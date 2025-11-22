@@ -51,11 +51,13 @@
 </style>
 
 <div class="text-center">
+    <b>
     <h1 class="mb-4">Pahlawan Nasional: Sisingamangaraja XII</h1>
+    </b>
 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRkSkYbSBX1rW9HFmdEOVlUdHG_0qbgudoQ&s"
+    <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWRkSkYbSBX1rW9HFmdEOVlUdHG_0qbgudoQ&s"
          class="img-fluid rounded shadow"
-         alt="Sisingamangaraja XII" width="350">
+         alt="Sisingamangaraja XII" width="350"> -->
 
     <p class="mt-4">
         Sisingamangaraja XII adalah pahlawan dari Tanah Batak yang berjuang puluhan tahun 
